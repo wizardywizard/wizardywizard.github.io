@@ -1,11 +1,11 @@
 # Site settings
-author: David Little
-title: 
+author: David s. Little
+title: ruby project
 header-img: img/home-bg.png
 email: littledavid175@gmail.com
-copyright_name: David Little
+copyright_name: David s. Little
 description: > # this means to ignore newlines until "baseurl:"
-  
+  learning about failure
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  wizardywizard
