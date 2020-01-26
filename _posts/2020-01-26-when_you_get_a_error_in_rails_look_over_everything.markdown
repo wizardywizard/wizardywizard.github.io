@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "When you get a error in rails look over everything."
-date:       2020-01-26 21:54:04 +0000
+date:       2020-01-26 16:54:05 -0500
 permalink:  when_you_get_a_error_in_rails_look_over_everything
 ---
 
